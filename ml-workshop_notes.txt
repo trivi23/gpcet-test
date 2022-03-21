@@ -1,1 +1,3 @@
 git init - intiliztion 
+assigment 1 - push the 2nd project to ur github repo..
+assigment 2 - create a pub sub in team
